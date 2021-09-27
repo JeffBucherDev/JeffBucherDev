@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/calmincolorado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="calmincolorado" height="30" width="40" /></a>
+<a href="https://twitter.com/JeffBucherDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="calmincolorado" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeffreybucherdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeffreybucherdev" height="30" width="40" /></a>
 </p>
 
