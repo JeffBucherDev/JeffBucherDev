@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeffrey Bucher</h1>
+<h1 align="center">Hi 👋, I'm Jeff Bucher</h1>
 <h3 align="center">An enthusiastic Full Stack JavaScript Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [JeffBucher.netlify.app](JeffBucher.netlify.app)
