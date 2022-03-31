@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeffbucherdev@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/7Xkw5uJo4](https://resume.io/r/7Xkw5uJo4)
+- 📄 Have any questions? Shoot me an email. JeffBucherDev@gmail.com
 
 - ⚡ Fun fact **I have two cats, Zelda and Sheik.**
 
