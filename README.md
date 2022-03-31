@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeffbucherdev@gmail.com**
 
-- 📄 Have any questions? Shoot me an email. JeffBucherDev@gmail.com
+- 📄 Have any questions, need anything? Shoot me an email. 
 
 - ⚡ Fun fact **I have two cats, Zelda and Sheik.**
 
