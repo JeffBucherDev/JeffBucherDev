@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff Bucher</h1>
 <h3 align="center">An enthusiastic Full Stack JavaScript Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [JeffBucher.dev](JeffBucher.dev)
+- 👨‍💻 All of my projects are available at [JeffBucher.dev](https://JeffBucher.dev)
 
 - 💬 Ask me about **MongoDB, Express, React, Node**
 
